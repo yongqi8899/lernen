@@ -51,7 +51,6 @@ cd drupal
 php web/core/scripts/drupal quick-start demo_umami
 ``` 
 #### Fehler Ps 
- https://gitlab.ueberbit.de/ueberbit/mac-dev-playbook/-/wikis/php/php#php
 
  Die Default-File für die Konfiguration ALLER installierten PHP Versionen liegt unter ~/.config/php/default.ini. man muss anlegen.
 
